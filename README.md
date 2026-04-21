@@ -1,2 +1,3 @@
 # Shitsmell-Linux
-A brand-new Gaming Linux Distrobution
+A new Gaming Linux Distrobution based on Arch.
+
